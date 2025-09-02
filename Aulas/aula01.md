@@ -34,11 +34,8 @@ Com o servidor pronto, o próximo passo é criar a aplicação na nossa máquina
 Usamos o Vite para criar um projeto React de forma rápida e moderna.
 
 ```bash
-# Cria um novo projeto na pasta "projeto-carros"
-npm create vite@latest projeto-carros -- --template react
-
-# Entra na pasta do projeto
-cd projeto-carros
+# Cria um novo projeto
+npm create vite@latest
 ```
 
 ### 2.2. Instalação das Dependências
