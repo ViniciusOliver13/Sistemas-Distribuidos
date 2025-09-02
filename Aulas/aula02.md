@@ -20,10 +20,10 @@ Nesta aula, aprendemos uma forma rápida de fazer deploy de uma aplicação web 
 Antes de fazer o deploy na AWS, seu projeto precisa ser preparado. Siga os dois passos abaixo:
 
 1.  **Build do Projeto:**
-    É necessário gerar a versão de produção da sua aplicação. Este processo compila e otimiza seu código, geralmente colocando o resultado em uma pasta chamada `dist` ou `build`.
+    É necessário gerar a versão de produção da sua aplicação. Este processo compila e otimiza seu código, geralmente colocando o resultado em uma pasta chamada `dist`.
 
     ```bash
-    # Se você usa NPM para gerenciar pacotes
+    # Usando NPM para gerenciar pacotes
     npm run build
     ```
 2.  **Compactar os Arquivos:**
